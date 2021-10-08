@@ -16,7 +16,7 @@ env:
   PATCH_FLAG: true
   COMMIT: 1eb0ef316103caf526f9ab80290b5ba313e232af
   DEPOT_UPLOAD: false
-  SRC_UPLOAD: false
+  SRC_UPLOAD: true
   BINARY_UPLOAD: true
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
